@@ -13,5 +13,9 @@ namespace Web410716500.Controllers
         {
             return View();
         }
+        public ActionResult HW1()
+        {
+            return View();
+        }
     }
 }
